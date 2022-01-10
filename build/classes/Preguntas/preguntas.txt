@@ -1,0 +1,2 @@
+1,Conceptos basicos,Verdadero o Falso,Los constructores de una clase padre se pueden heredar y sobrescribir siempre y cuando no sean privados,Falso, ,null
+1,Conceptos basicos,Verdadero o Falso,Puede mostrar una linea en la pantalla utilizando System.out.println(),Verdadero,,null

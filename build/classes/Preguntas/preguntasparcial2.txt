@@ -1,0 +1,18 @@
+Hilos&Verdadero o Falso&Java soporta multiples hilos de ejecucion en un mismo programa&Verdadero&&null
+Manejo de excepciones&Opcion Multiple&La salida de una division para 0 en java lanza la excepcion&ArithmeticException&Exception&InputMismatchException&IOException&&null
+Manejo de excepciones&Verdadero o Falso&Una excepción indica un problema o situación excepcional que ocurre mientras un programa se ejecuta.&Verdadero&&null
+Manejo de excepciones&Opcion Multiple&Seleccione las respuestas correctas&Compilacion falla debido a error en la linea 10&Compilacion falla debido a error en la linea 8&Compilacion falla debido a error en la linea 12&Compilacion se realiza exitosamente&errorexception&errorexception.JPG
+Manejo de excepciones&Verdadero o Falso&Las excepciones unchecked pueden ser ignoradas en tiempo de compilación&Verdadero&&null
+Archivos&Completar&Complete&Las lecturas de archivos de texto puede lanzar&FileNotFoundException&.&&null
+Archivos&Verdadero o Falso&Un Object Stream no puede manejar objetos y datos primitivos.&Falso&&null
+Archivos&Completar&Complete el enunciado&Un archivo binario escrito por un programa Java sólo puede ser leído por un&programa java&.&&null
+Hilos&Verdadero o Falso&La interface Runnable define un único método estático run() que debe ser sobre escrito cuando se trabaja con Threads.&Verdadero&&null
+Hilos&Verdadero o Falso&Para terminar la ejecución de un hilo se usa el método stop()&Falso&&null
+Colecciones&Verdadero o Falso&Los Set pueden tener elementos duplicados&Falso&&null
+Colecciones&Verdadero o Falso&La siguiente sintaxis es usada para recorrer una coleccion&Verdadero&recorrercoleccion&iterarcoleccion.JPG
+Colecciones&Opcion Multiple&Sí se trata de ordenar una lista de una clase base que no implementa la interfaz comparable, obtendremos una excepción de tipo:&ClassCastException&IOException&ClassNotFoundException&FileNotFoundException&&null
+Colecciones&Opcion Multiple&¿Qué interfaz representa una colección ordenada que puede contener elementos duplicados?&List&Set&TreeSet&HasSet&&null
+JavaFX&Opcion Multiple&JavaFX es un API para manejar&graficos y contenido multimedia&grafico&contenido multimedia&lectura de archivos&&null
+JavaFX&Verdadero o Falso&El método getChildren() de la clase Node retorna unalista de los nodos hijos de un nodo.&Verdadero&&null
+JavaFX&Verdadero o Falso&Para añadir un nodo a esta lista de nodos hijos debemos llamar al método add(Node node)&Verdadero&&null
+JavaFX&Completar&Complete&La siguiente imagen muestra un diagrama de &nodos&.&diagrama de nodos&dianodos.JPG

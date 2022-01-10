@@ -1,0 +1,15 @@
+Conceptos basicos&Verdadero o Falso&Los constructores de una clase padre se pueden heredar y sobrescribir siempre y cuando no sean privados&Falso&&null
+Conceptos basicos&Verdadero o Falso&Puede mostrar una linea en la pantalla utilizando System.out.println()&Verdadero&&null
+Conceptos basicos&Completar&Complete el enunciado&El metodo &main&es invocado cuando se manda a ejecutar un programa.&&null
+Sintaxis Java&Opcion Multiple&¿Cual es la salida del siguiente codigo? System.out.println("sueldos");&sueldos&"sueldos"&SUELDOS&Error&&null
+Conceptos basicos&Completar&Complete&Los arreglos tienen un tamaño&fijo&.&&null
+Sintaxis Java&Opcion Multiple&que genera la siguiente salida: "Maria" + "Jose"&MariaJose&Maria Jose&Maria + Jose&Error. Imposible sumar 2 string&&null
+Sintaxis Java&Opcion Multiple&Cual es la salida del siguiente codigo&red: 10 green: 10 blue: 10&No ejecuta&red: red green: green blue: blue&Color&color&Pregunta1.JPG
+Interfaces y Clases abstractas&Verdadero o Falso&La subclase de una clase no abstracta se puede declarar abstracta &Verdadero&&null
+Interfaces y Clases abstractas&Verdadero o Falso&Dadas dos interfaces. La sintaxis interfaceA implements interfaceB es correcta.&Falso&&null
+Interfaces y Clases abstractas&Verdadero o Falso&La clase B compila en el siguiente ejemplo&Falso&claseb&abstractoejemplo.JPG
+Interfaces y Clases abstractas&Opcion Multiple&Los metodos abstractos deben ser&public o protected&solo public&solo private&public, protected o default&&null
+Polimorfismo&Verdadero o Falso&La habilidad de asociar muchos significados a el nombre de una clase&Falso&&null
+Polimorfismo&Opcion Multiple&El mecanismo para lograr el polimorfismo es&late binding o dynamic binding&late dynamic&dynamic polymorphism&ninguna de las anteriores&&null
+Polimorfismo&Verdadero o Falso&El siguiente ejemplo es una desmostracion del polimorfismo?&Verdadero&ejemploclasecomer&policlasecomer.JPG
+Polimorfismo&Completar&Complete. Polimorfismo es:&La habilidad de asociar muchos significados a el nombre de un&metodo&.&&null
